@@ -62,10 +62,8 @@ public class main {
         utilisateurCommence = commencerJeu(choixNombreUtilisateur);
         if(utilisateurCommence){
             System.out.println("Tu vas jouer en premier !");
-
         }else {
             System.out.println("L'ordinateur va jouer en premier !");
-
         }
 
     }
